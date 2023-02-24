@@ -1,0 +1,1 @@
+There is my practice during the first 6 months of the data science education.
